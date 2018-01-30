@@ -1,0 +1,26 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "tutorial express",
+  "main": "demo.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranthebao/Mytest.git"
+  },
+  "keywords": [
+    "My"
+  ],
+  "author": "baott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranthebao/Mytest/issues"
+  },
+  "homepage": "https://github.com/tranthebao/Mytest#readme"
+}
