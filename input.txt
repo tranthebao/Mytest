@@ -30,3 +30,4 @@
 			this.tbl1.TblPopulate(tbl1, sＳＱＬ, INT.i最大表示行数, "ALL");
 		}
 		#endregion
+		abc
