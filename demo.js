@@ -1,4 +1,4 @@
-/*var express = require('express');
+var express = require('express');
 var fs=require('fs');
 var data = fs.readFileSync('input.txt');
 fs.readFile('input.txt',function(err, dataF){
@@ -6,7 +6,7 @@ fs.readFile('input.txt',function(err, dataF){
     console.log(dataF.toString());
 });
 console.log(data.toString());
-console.log("Program Ended");*/
+console.log("Program Ended");
 var event = require('events');
 var eventEmiter = new event.EventEmitter();
 var connectHandler = function connecttted(){
