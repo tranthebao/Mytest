@@ -2,7 +2,7 @@
   "name": "mytest",
   "version": "1.0.0",
   "description": "tutorial express",
-  "main": "fsdemo.js",
+  "main": "async.js",
   "dependencies": {
     "express": "^4.16.2"
   },

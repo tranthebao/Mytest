@@ -23,7 +23,7 @@ var writeStream = fs.createWriteStream('write.txt');
 writeStream.write(data, 'UTF8');
 //mark the end of file
 writeStream.end();
-writeStream.on('finish', function(){
+writeStream.on('finish', cfunction(){
     console.log("write completed");
 });
 writeStream.on('error', function(err){
